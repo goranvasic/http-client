@@ -1,0 +1,44 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.metadata
+.project
+.settings/
+bin/
+tmp/
+
+# Generated directories
+target/
+out/
+test-output/
+
+# File extensions
+*.class
+*.jar
+*.war
+*.zip
+*.7z
+*.gz
+*.bz2
+*.rar
+*.xls
+*.xlsx
+*.bak
+*.stackdump
+*.exe
+
+# Logs
+log4j2.xml
+logs/
+*.log
+temp*.*
+temp*/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Unwanted files
+.DS_Store
